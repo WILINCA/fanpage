@@ -1,0 +1,7 @@
+font-family: 'Indie Flower', cursive;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Manuale', serif;
+font-family: 'Varela Round', sans-serif;
+font-family: 'Handlee', cursive;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Average Sans', sans-serif;

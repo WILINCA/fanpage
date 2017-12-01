@@ -1,0 +1,25 @@
+body {
+    background-color: #ebe0e0;
+}
+
+h1 {
+    text-shadow: 2px 2px 1px grey;
+}
+
+.welcome {
+    color:  black;
+}
+
+#about {
+    color: purple;
+    background-color: #ebe0e0;
+    font-size: 20px;
+/*  border: 2px dashed red;*/
+}
+
+h4 {
+    text-align: center;
+    color: rgb(0, 77, 38);
+    font-size: 20px;
+    text-shadow: 2px 2px 1px grey;
+}
